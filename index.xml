@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scely&#39;s Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Scely&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Mar 2021 11:34:11 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beatoraja Guide</title>
+      <link>http://localhost:1313/post/beatoraja-guide/</link>
+      <pubDate>Tue, 02 Mar 2021 11:34:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/beatoraja-guide/</guid>
+      <description>&lt;h1 id=&#34;beatoraja使用教程&#34;&gt;Beatoraja使用教程&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;我也不知道我为什么要写这个。
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>大汉杯season10</title>
+      <link>http://localhost:1313/post/bhc_s10/</link>
+      <pubDate>Tue, 02 Mar 2021 11:17:38 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/bhc_s10/</guid>
+      <description>&lt;h1 id=&#34;大汉杯season10refresh&#34;&gt;大汉杯season10：refresh&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;已截止。
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>大汉杯season9</title>
+      <link>http://localhost:1313/post/bhc_s9/</link>
+      <pubDate>Wed, 26 Aug 2020 22:09:27 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/bhc_s9/</guid>
+      <description>&lt;h1 id=&#34;大汉杯season9bofxvi-会场限定&#34;&gt;大汉杯season9：BOFXVI 会场限定&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;已结束。
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dahan_cup_info</title>
+      <link>http://localhost:1313/post/dahan_cup_info/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/dahan_cup_info/</guid>
+      <description>&lt;h1 id=&#34;大汉杯全部信息&#34;&gt;大汉杯全部信息&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;目前进行中：无
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sabuns</title>
+      <link>http://localhost:1313/post/sabuns/</link>
+      <pubDate>Mon, 02 Mar 2020 02:11:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/sabuns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>我是Scely，他们都叫我大汉</title>
+      <link>http://localhost:1313/post/me/</link>
+      <pubDate>Sun, 09 Feb 2020 13:08:03 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/me/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
