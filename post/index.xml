@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Scely&#39;s Site</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Scely&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beatoraja Guide</title>
+      <link>http://localhost:1313/post/beatoraja-guide/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/beatoraja-guide/</guid>
+      <description>&lt;h1 id=&#34;beatoraja使用教程&#34;&gt;Beatoraja使用教程&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;我也不知道我为什么要写这个。
+最近更新：23.4.8 删除了bat版本的相关教程。
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>谱面列表</title>
+      <link>http://localhost:1313/post/charts/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/charts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>我是Scely，他们都叫我大汉</title>
+      <link>http://localhost:1313/post/me/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/me/</guid>
+      <description>&lt;p&gt;🤔&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dahan_Cup is dead</title>
+      <link>http://localhost:1313/post/dahan_cup_info/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/dahan_cup_info/</guid>
+      <description>&lt;h1 id=&#34;大汉杯已成为历史&#34;&gt;大汉杯已成为历史&lt;/h1&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
